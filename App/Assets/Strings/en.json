@@ -1,0 +1,400 @@
+{
+    "common": {
+        "next": "Next",
+        "done": "Done",
+        "save": "Save",
+        "submit": "Submit",
+        "delete":"Delete",
+        "edit":"Edit",
+        "cancel":"Cancel",
+        "disconnect": "Disconnect",
+        "popup":{
+            "ok":"OK",
+            "cancel": "Cancel",
+            "tryAgain": "Try again",
+            "logout": "Logout"
+        }
+    },
+    "login": {
+        "login": "Log in",
+        "signUp": "Sign Up",
+        "help": "Help?",
+        "carebinder": "Carebinder",
+        "titleSignIn": "Hello! \nSign in to continue",
+        "country": "Country",
+        "phoneNumber": "Phone number",
+        "hello": "Hello!",
+        "errorTitle": "Member Error",
+        "errorContent": "You're not member\nPlease check again or sign up"
+    },
+    "home": {
+        "bottomTabBar": {
+            "home": "Home",
+            "event": "Events",
+            "setting": "Setting"
+        },
+        "titleRegisterWatch": "Weclome to the Carebinder \nCare your senior now!",
+        "buttonRegisterWatch": "Register Watch",
+        "location": "Location",
+        "health": "Health",
+        "today": "Today",
+        "wearing": "Wearing",
+        "takenOff": "Taken off",
+        "main": "Main",
+        "sub": "Sub",
+        "reject": "Reject",
+        "accept": "Accept",
+        "pills": "Pills",
+        "inviteText": " invites you care ",
+        "edit": "Edit",
+        "editOrder": {
+            "title": "Edit Order",
+            "guide": "Long press the list to reoder"
+        }
+    },
+    "event": {
+        "action": {
+            "resolved": "Resolved",
+            "cancelled": "Cancelled"
+        },
+        "pressSOS": "Pressed SOS",
+        "noOne": "No one has responded",
+        "lowBattery": "Battery lower than 20%",
+        "pressedSOS": "Pressed SOS",
+        "detectFall": "Detected Fall",
+        "outOfBound": "Out of bounds",
+        "takeOff": "Took off the watch",
+        "update": "Watch update required",
+        "inActivity": "No activities",
+        "reminder": "Reminder_ Pills",
+        "weiredBlood" : "Weired Blood Oxygen (80 %)",
+        "weiredHeartRate" : "Weired Heart Rate (70 bpm)",
+        "weiredHeartRateVariability" : "Weired Heart Rate Variability (20 회)",
+        "takeOn" : "Wear the watch",
+        "charge": "Band is charging"
+    },
+    "geofencing":{
+        "title":"Geofencing",
+        "checkLocation":"Check Location",
+        "bound":"Bound",
+        "monitoring":"Monitoring",
+        "address": "Address",
+        "setTheBound": "Set the bound",
+        "km": "km",
+        "name": "Name",
+        "buttonAdd":"Add",
+        "buttonRegisterBound":"+ Register Bound",
+        "buttonSetAsBound":"Set as Bound",
+        "home":"Home",
+        "update":"Updating",
+        "titleAddBound": "Add Bound"
+
+    },
+    "more": {
+        "title": "More",
+        "setting": {
+            "carer": "Carer",
+            "reminder": "Reminder",
+            "geofencing": "Geofencing",
+            "fall": "Fall detection",
+            "advance": "Advanced Settings",
+            "about": "About watch"
+        }
+    },
+    "completionScreen":{
+        "title": "Complete",
+        "updateWatch": {
+            "message": "Your watch is updated to\nthe latest version.",
+            "button":"Done"
+        },
+        "registerProfile": {
+            "message": " Your watch is connected! \nYou’re almost done.",
+            "button": "Set Up Senior Profile"
+        }
+    },
+    "aboutwatch":{
+        "title": "About Watch",
+        "name": "Name",
+        "watchUpdate": "Watch update",
+        "imei": "IMEI",
+        "simId": "SIM ID",
+        "snc": "SNC",
+        "disconnection": "Disconnection",
+        "disconnectionMessage": "Once the watch is disconnected from your phone, you will lose all the data.\n\nContinue to disconnect ?",
+        "installedVersion": "Installed version",
+        "automaticInstall": "Automatic Install",
+        "message": "* When this is On, firmware will automatically install at midnight.\n*Installation will start when Watch is charged to at least 30%.",
+        "updateContent": "Update contents",
+        "updateMessage": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College",
+        "seeMore": "See More",
+        "updateNow": "Update Now",
+        "popup":{
+            "title":"Watch Disconnection",
+            "messageWarning":"Information on the watch will be deleted.\nReally want to disconnect?",
+            "messageCompleted":"Watch is disconnected"
+        }
+    },
+    "support":{
+        "title":"Support",
+        "notices": "Notices",
+        "faq": "FAQ",
+        "somethingNew": "Something new",
+        "somethingOld": "Something old",
+        "contactUs": "Contact Us"
+    },
+    "signup": {
+        "signUp": "Sign Up",
+        "titleSignUp": "Welcome! \nCreate a new account",
+        "verifyNumber": "Verify Number"
+    },
+    "scanQR": {
+        "title": "Turn on the watch \nand scan the QR code",
+        "buttonCannotBeRead": "Cannot be read?",
+        "titleError": "Register Error",
+        "errorInvalidCode":"Invalied code. \nPlease check again.",
+        "errorOverlapCode":"Already registered watch\nPlease check again."
+    },
+    "verifyNumber": {
+        "login": "Log in",
+        "signUp": "Sign Up",
+        "enterVerCode": "Enter verification code",
+        "resend": "Resend",
+        "done": "Done"
+    },
+    "watchConnect": {
+        "connect": {
+            "title": "Connecting...",
+            "message": "Confirm on the band",
+            "error":{
+                "title": "Registration Error",
+                "message":"Connection is failed \nPlease check your watch."
+            }
+        },
+        "update": {
+            "title": "Updating...",
+            "message": "Bring watch closer to the phone",
+            "error":{
+                "title":"Update Error",
+                "messageUpdateFail": "Update is failed \nPlease try again.",
+                "messageUpdateNotFound": "Cannot find watch.\nBring the watch and phone close\ntogether and try again."
+            }
+        },
+        "search":{
+            "title": "Searching…",
+            "message": "Bring watch closer to the phone"
+        }
+    },
+    "registerWatchDigit": {
+        "title": "Register Watch",
+        "message": "Enter your \nWatch ID number",
+        "textInputPlaceholder": "15 digits"
+    },
+    "address": {
+        "title":"Address",
+        "buttonFindLocation": "Find my location",
+        "titleAddress": "Address *",
+        "city": "City",
+        "state": "State",
+        "buttonCheckLocation": "Check Location",
+        "buttonSetLocation": "Set this Location",
+        "popup":{
+            "title": "Location error",
+            "message": "We cannot find your address. \nPlease check again."
+        }
+    },
+    "additionalInfo": {
+        "header": "Additional information",
+        "message": "Enter the additional information \nYou can get the systematic \ninformation",
+        "genderTitle": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "birthday": "Birthday",
+        "height": "Height",
+        "weight": "Weight",
+        "cm": "CM",
+        "kg": "KG",
+        "gender": [
+            {
+                "id": "0",
+                "name": "Male"
+            },
+            {
+                "id": "1",
+                "name": "Female"
+            }
+        ]
+    },
+    "reminder": {
+        "titleReminder": "Reminder",
+        "noReminder": "No reminder",
+        "addReminder": "Add Reminder",
+        "login": "Log in",
+        "type": "Type",
+        "title": "Title",
+        "description": "*If not entered, display “Type” name.",
+        "dose": "Dose",
+        "date": "Date",
+        "repeat": "Repeat",
+        "done": "Done"
+    },
+    "settingTab":{
+        "title": "Setting",
+        "registerWatch": "Register Watch",
+        "appNotification": "App Notification",
+        "support": "Support",
+        "aboutService": "About Service",
+        "editProfile": "Edit pofile",
+        "changeNumber": "Change phone number",
+        "logout": "Log out",
+        "messageChangeNumber":"To change \nEnter Phone number",
+        "buttonVerifyNumber":"Verify Number",
+        "popupLogOut": {
+            "title": "Log Out",
+            "message": "Log out now?"
+        },
+        "popupChangeNumber" :{
+            "title":"Change number",
+            "message": "Your phone number is changed.\nTo keep your login safe, \nyou need to log in again."
+        },
+        "appNotificationSetting": {
+            "sos": "SOS",
+            "fall": "Fall Detection",
+            "geo": "Geofencing",
+            "inactivity": "Inactivity",
+            "battery": "Battery",
+            "reminder": "Reminder",
+            "takenOff": "Taken off the watch",
+            "sound": "Sounds",
+            "vibration": "Vibrations",
+            "soundOption": "Sound・Vibration",
+            "off": "Off",
+            "on": "On"
+        },
+        "aboutServiceDetail": {
+            "appVersion": "App version",
+            "openSource": "Open source license",
+            "agreement": "User Agreement",
+            "privacy": "Privacy & Policy",
+            "installedVersion": "Installed version",
+            "latestVersion": "Latest version"
+        }
+    },
+    "registerSenior":{
+        "title": "Set Profile",
+        "titleName": "Name *",
+        "placeHolderName": "Senior name",
+        "numberInput": "Number *",
+        "address": "Address"
+    },
+    "setProfile": {
+        "setProfile": "Set Profile",
+        "name": "Name *",
+        "userAgreement": "User Agreement",
+        "privacy": "Privacy Policy",
+        "createAccount": "Create Account",
+        "titleAgree": "By clicking Create Account, you agree to\n",
+        "done": "Done",
+        "thankSignUp": "Thanks for signing up!",
+        "titleSetupWatch": "You can setup the watch now",
+        "takePhoto": "Take a photo",
+        "selectGallery": "Select from Gallery",
+        "useDefaultImage": "Use default image",
+        "editProfile":"Edit profile"
+    },
+    "term": {
+        "privacy": "Privacy Policy",
+        "contactus": "Contact Us"
+    },
+    "contactus": {
+        "contactus": "Contact Us",
+        "email": "Email * (for answer)",
+        "enterYourEmail": "Enter your email",
+        "type": "Type*",
+        "select": "Select",
+        "contents": "Contents",
+        "picture": "Pictures (Optional)",
+        "submit": "Submit",
+        "notifi": "You'll be notified via the e-mail:\n",
+        "received": "Your inquiry has been received.\nWe will respond quickly after confirming",
+        "typeContent": {
+            "auth": "Log in/Sign up",
+            "watch": "Watch",
+            "sos": "SOS",
+            "healthy": "Healthy record",
+            "error": "Error",
+            "etc": "etc"
+        }
+    },
+
+    "carer":{
+        "title": "Carer",
+        "add": "Add",
+        "noCarer": "No Carer",
+        "pending": "Pending",
+        "expired": "Expired",
+        "rejected": "Rejected",
+        "addCarer": "Add Carer",
+        "titleAddCarer": "To add carer\nEnter the number",
+        "contacts": "Contacts",
+        "invite": "Invite",
+        "complete": {
+            "complete": "Complete",
+            "content": "We sent an invitation to"
+        },
+        "titleComplete": "We sent an invitation to",
+        "resend": "Resend",
+        "remove": "Remove",
+        "delete":{
+            "title": "Remove Carer",
+            "question": "Do you want to remove ",
+            "desc": " is unable to access the senior information any more.",
+            "cancel": "Cancel",
+            "doneDesc": " has been removed"
+        },
+        "error":{
+            "title": "Carer Error",
+            "desc": "Already registered member. Try again."
+        }
+    },
+    "filter":{
+        "search": "Search",
+        "senior": "Senior",
+        "all": "All",
+        "date": "Date"
+    },
+    "fallDetection":{
+        "title": "Fall Detection",
+        "monitoring": "Monitoring",
+        "sensorSensitivity": "Sensor sensitivity",
+        "sensorMode": {
+            "low": "Low",
+            "medium": "Medium",
+            "high": "High"
+        },
+        "remove": "Remove"
+    },
+    "profile" : {
+        "name": "Name*",
+        "number": "Number*",
+        "address": "Address",
+        "gender": "Gender",
+        "birth": "Birthday",
+        "height": "Height",
+        "weight": "Weight",
+        "cm": "CM",
+        "kg": "KG"
+    },
+    "sos": {
+        "title": "SOS from ",
+        "no_one_response": "No one responded yet",
+        "call": "Call",
+        "i_will_help": "I'll help",
+        "current": "Current",
+        "accident": "Accident",
+        "phone": {
+            "call": "Call ",
+            "call_police": "Call Police(911)",
+            "call_ambulance": "Call Ambulance(911)"
+        }
+    }
+}

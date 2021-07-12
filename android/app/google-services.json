@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261145872470",
+    "project_id": "h-sos-31811",
+    "storage_bucket": "h-sos-31811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261145872470:android:789e0f165528b8206b93f7",
+        "android_client_info": {
+          "package_name": "com.humaxdigital.byclip.hsos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261145872470-febg4llltnce0g1jfbc4ramarsnetln0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtwQNg1s91w5Ns9Dc55pVdI0h08EklZ44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261145872470-febg4llltnce0g1jfbc4ramarsnetln0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
